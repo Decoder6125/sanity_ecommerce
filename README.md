@@ -5,10 +5,13 @@ This ecommerce app is developed with NEXT js and sanity.io for structured conten
 # Screenshots
 Landing Page
 <img src="https://res.cloudinary.com/decoderinstaclone/image/upload/v1655581584/Screenshot_462_bezmhk.png" />
+<br>
 <img src="https://res.cloudinary.com/decoderinstaclone/image/upload/v1655581584/Screenshot_463_frvagt.png" />
+<br>
 <img src="https://res.cloudinary.com/decoderinstaclone/image/upload/v1655581584/Screenshot_464_ajv6ar.png" />
+<br>
 <img src="https://res.cloudinary.com/decoderinstaclone/image/upload/v1655581583/Screenshot_465_p7yne8.png" />
-
+<br>
 Mobile Responsive
 <img src="https://res.cloudinary.com/decoderinstaclone/image/upload/v1655581584/Screenshot_466_cfb2mk.png" />
 ## Run this on your local environment --> follow the below steps
