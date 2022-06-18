@@ -1,5 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# HEADPHONESHUB
 
+This ecommerce app is developed with NEXT js and sanity.io for structured content management. This application comes with stripe dummy checkout page.
+
+# Screenshots
+Landing Page
+<img src="https://res.cloudinary.com/decoderinstaclone/image/upload/v1655581584/Screenshot_462_bezmhk.png" />
+<img src="https://res.cloudinary.com/decoderinstaclone/image/upload/v1655581584/Screenshot_463_frvagt.png" />
+<img src="https://res.cloudinary.com/decoderinstaclone/image/upload/v1655581584/Screenshot_464_ajv6ar.png" />
+<img src="https://res.cloudinary.com/decoderinstaclone/image/upload/v1655581583/Screenshot_465_p7yne8.png" />
+
+Mobile Responsive
+<img src="https://res.cloudinary.com/decoderinstaclone/image/upload/v1655581584/Screenshot_466_cfb2mk.png" />
 ## Getting Started
 
 First, run the development server:
