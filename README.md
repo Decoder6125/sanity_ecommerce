@@ -11,7 +11,7 @@ Landing Page
 
 Mobile Responsive
 <img src="https://res.cloudinary.com/decoderinstaclone/image/upload/v1655581584/Screenshot_466_cfb2mk.png" />
-## Getting Started
+## Run this on your local environment --> follow the below steps
 
 First, run the development server:
 
